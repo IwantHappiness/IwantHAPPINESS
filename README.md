@@ -6,7 +6,9 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=IwantHAPPINESS&show_icons=true&theme=github_dark" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IwantHAPPINESS&exclude_repo=.config&theme=github_dark&layout=compact" height="195" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IwantHAPPINESS&theme=github_dark&layout=compact" height="195" />
+
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IwantHAPPINESS&exclude_repo=.config&theme=github_dark&layout=compact" height="195" /> -->
 
 <!-- <img src="https://streak-stats.demolab.com?user=IwantHAPPINESS&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D" align="middle" height="150" alt="contribution streak" /> -->
 
